@@ -27,3 +27,5 @@ open index.html
 ## About
 
 Read [ABOUT.md](ABOUT.md) for the project context.
+
+Update README project notes.

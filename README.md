@@ -23,3 +23,7 @@ open index.html
 ## Project image
 
 ![Project banner](assets/project-banner.svg)
+
+## About
+
+Read [ABOUT.md](ABOUT.md) for the project context.

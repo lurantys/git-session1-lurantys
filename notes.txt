@@ -1,2 +1,6 @@
-Personal development notes.
+Git workflow notes
 
+- A commit records staged changes in the local repository.
+- A push sends local commits to a remote repository.
+- Fetch updates remote-tracking information without changing the working files.
+- Pull fetches and integrates the remote branch into the current branch.
